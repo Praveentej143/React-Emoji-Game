@@ -1,0 +1,14 @@
+/* Write your code here. */
+.app-container {
+  background: linear-gradient(to bottom, #9796f0, #fbc7d4);
+  height: 100vh;
+  padding: 0px 0px 30px 0px;
+}
+.emojis-list-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 50%;
+  margin: 0px auto;
+}

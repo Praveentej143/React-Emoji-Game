@@ -1,0 +1,25 @@
+/* Write your code here. */
+.nav-bar {
+  color: #ffffff;
+  font-family: 'Roboto';
+  background-color: #ffffff33;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+  /* border: 1px solid black; */
+}
+.emoji-logo {
+  width: 40px;
+  height: 40px;
+}
+.score-containers {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 15%;
+  /* border: 1px solid black; */
+}
